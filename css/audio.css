@@ -1,14 +1,14 @@
 #pre {
-	position: relative;
+  position: relative;
 }
 #pre span {
-	display: block;
-	bottom: 0;
-	width: 9px;
-	height: 5px;
-	background: #9b59b6;
-	position: absolute;
-	animation: pre 1.5s infinite ease-in-out;
+  display: block;
+  bottom: 0;
+  width: 9px;
+  height: 5px;
+  background: #9b59b6;
+  position: absolute;
+  animation: pre 1.5s infinite ease-in-out;
 }
 #pre span:nth-child(2) {
   left:11px;
